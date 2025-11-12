@@ -7,7 +7,8 @@ import ca.tvos.app.Application;
 import ca.tvos.base.SysIO;
 
 /**
- * 
+ * Quick 'HelloWorld' example
+ * @version 1.0
  */
 public class HelloWorld extends Application {
 
